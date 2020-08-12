@@ -1,0 +1,14 @@
+receptor = Spike_Glycoprotein.pdbqt
+ligand = Umifenovir.pdbqt
+
+center_x = -32.358
+center_y = 25.776 
+center_z = 21.005
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+energy_range = 4
+
+exhaustiveness = 8
