@@ -1,0 +1,14 @@
+receptor = 6lzg_cleaned.pdbqt
+ligand = Remdesivir.pdbqt
+
+center_x = -26.010 
+center_y = 18.377 
+center_z = -7.201
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+energy_range = 4
+
+exhaustiveness = 8

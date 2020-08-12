@@ -1,0 +1,4 @@
+6lzg_clean
+spacing    0.375
+npts       126 126 126
+center    -26.010 18.377 -7.201
