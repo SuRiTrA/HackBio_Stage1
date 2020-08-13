@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T14:31:30.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" version="13.5.9" etag="SLeM2MZLtWpev7W3FtQN" type="github"><diagram id="2Uf1aFZWloYDrNKBn1jX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-13T14:39:12.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="sfLK-EwA0Sh03jCX-c34" version="13.5.9" type="github">
+  <diagram id="2Uf1aFZWloYDrNKBn1jX" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="680" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EF1SqDoa_nmE-BH_PLFV-2" target="EF1SqDoa_nmE-BH_PLFV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Downloading Receptor files and Ligand Molecules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EF1SqDoa_nmE-BH_PLFV-3" target="EF1SqDoa_nmE-BH_PLFV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cleaning and preparation of the receptor file and ligand file&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EF1SqDoa_nmE-BH_PLFV-4" target="EF1SqDoa_nmE-BH_PLFV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Setting up Grid Box and the configuration parameters&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="255" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EF1SqDoa_nmE-BH_PLFV-5" target="EF1SqDoa_nmE-BH_PLFV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Autodock Vina execution through terminal\command line&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EF1SqDoa_nmE-BH_PLFV-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Visualisation and Drug-protein binding interaction analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="440" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
